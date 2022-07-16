@@ -1,0 +1,7 @@
+Sandbox_EN = {
+  Sandbox_SpawnEquipmentNoFool = "Spawn Equipment",
+  Sandbox_SpawnEquipmentNoFool_activateMod = "Activate Mod",
+  Sandbox_SpawnEquipmentNoFool_activateMod_tooltip = "Activate to enable the spawn equipment",
+  Sandbox_SpawnEquipmentNoFool_itemList = "Start Equipment",
+  Sandbox_SpawnEquipmentNoFool_itemList_tooltip = "Pipe-separated litst of item IDs, e.g. Base.Hammer|Base.Apple|Base.Bag_Schoolbag",
+}

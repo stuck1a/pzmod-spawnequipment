@@ -1,0 +1,15 @@
+VERSION = 1,
+
+option SpawnEquipmentNoFool.activateMod = {
+  type = boolean,
+  default = true,
+  page = SpawnEquipmentNoFool,
+  translation = SpawnEquipmentNoFool_activateMod,
+}
+
+option SpawnEquipmentNoFool.itemList = {
+  type = string,
+  default = Base.Apple|Base.Hammer|Base.WaterBottleFull|Base.BaseballBat,
+  page = SpawnEquipmentNoFool,
+  translation = SpawnEquipmentNoFool_itemList,
+}

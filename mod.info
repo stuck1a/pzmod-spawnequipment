@@ -1,0 +1,7 @@
+name=Spawn Equipment (NoFool)
+id=SpawnEquipmentNoFool
+description=Allows to specify some startup equipment through the sandbox settings.
+description=
+description=To prevent misuse, players will only receive the equipment if they didn't have claimed a safehouse yet.
+description=Additionally, those items will de-spawn as soon as the corresponding character dies.
+poster=poster.png
